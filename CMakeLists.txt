@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(enshu91 enshu91.cpp)
 add_executable(enshu92 enshu92.cpp)
+add_executable(enshu93 enshu93.cpp)
